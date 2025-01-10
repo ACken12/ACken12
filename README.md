@@ -8,14 +8,7 @@ I am a Software Engineering student with experience in various programming langu
 
 I enjoy tackling problems and finding effective solutions, as I believe every obstacle along the way is an opportunity to grow and improve. My focus is on developing strong skills and adding value through a creative and solution-oriented approach.
 
-* **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
-  - Java
-  - React js
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+
 
 <!--
 **ACken12/ACken12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
