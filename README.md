@@ -4,7 +4,10 @@
 [<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
+I am a Software Engineering student with experience in various programming languages such as C#, Python, JavaScript, Java, and PHP. I also have skills in client-side technologies, including React, HTML, CSS, and SASS. I am passionate about continuous learning and taking on new challenges that allow me to gain more knowledge and experience.  
+
+I enjoy tackling problems and finding effective solutions, as I believe every obstacle along the way is an opportunity to grow and improve. My focus is on developing strong skills and adding value through a creative and solution-oriented approach.
+
 * **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
   - Java
