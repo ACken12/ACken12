@@ -55,7 +55,7 @@ I enjoy tackling problems and finding effective solutions, as I believe every ob
 ## Check out my Social Media
 <div align="left">
   <img width="7" />
-  <a href="https://www.youtube.com" target="_blank">
+  <a href="https://www.youtube.com/@kendallangulo7312" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="40" alt="youtube logo" />
   </a>
   
@@ -65,7 +65,7 @@ I enjoy tackling problems and finding effective solutions, as I believe every ob
   </a>
  
   <img width="7" />
-  <a href="https://www.instagram.com" target="_blank">
+  <a href="https://www.instagram.com/it_kendall_aaron?igsh=ZHgwOWt2YTExYTR4" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" alt="instagram logo" />
   </a>
 </div>
