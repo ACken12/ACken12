@@ -1,5 +1,8 @@
 ### Hello, [Kendall here!](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
+
+
 <!--
 **ACken12/ACken12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
