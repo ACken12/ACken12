@@ -40,6 +40,18 @@ I enjoy tackling problems and finding effective solutions, as I believe every ob
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js logo" />
 </div>
 
+
+
+<br>
+<div>
+<h2 style="margin: 5px 10px;">Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=ACken12&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ACken12)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=ACken12&theme=material-palenight)](https://github.com/ACken12)
+</div>
+
+
+
 ## Check out my Social Media
 <div align="left">
   <img width="7" />
@@ -57,17 +69,11 @@ I enjoy tackling problems and finding effective solutions, as I believe every ob
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" alt="instagram logo" />
   </a>
 </div>
+
+<br clear="both">
+
+
 <!--
 **ACken12/ACken12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
