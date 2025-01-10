@@ -1,7 +1,7 @@
 ### Hello, [Kendall here!](https://www.linkedin.com/in/kendall-angulo-947613289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ##
 
-[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
+[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">]()
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a Software Engineering student with experience in various programming languages such as C#, Python, JavaScript, Java, and PHP. I also have skills in client-side technologies, including React, HTML, CSS, and SASS. I am passionate about continuous learning and taking on new challenges that allow me to gain more knowledge and experience.  
